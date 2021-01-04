@@ -18,3 +18,6 @@ Install the dependencies and start the server.
 $ npm install
 $ npm run serve
 ```
+#### Demo Heroku APP
+
+See [Demo](http://weather-vuejs-api.herokuapp.com/)
