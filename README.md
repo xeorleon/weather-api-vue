@@ -1,24 +1,20 @@
-# weather-app-vue
+# Weather Api
 
-## Project setup
-```
-npm install
-```
+### Tech
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* [Vue.js](https://vuejs.org/) 
+* [Node.js](https://nodejs.org/)
+* [OpenWeatherAPI](https://openweathermap.org/)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Installation
+
+Install the dependencies and start the server.
+
+```sh
+
+$ npm install
+$ npm run serve
+```
