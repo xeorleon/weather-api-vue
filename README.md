@@ -20,4 +20,4 @@ $ npm run serve
 ```
 #### Demo Heroku APP
 
-See [Demo](http://weather-vuejs-api.herokuapp.com/)
+See [Demo](https://weather-vuejs-api.herokuapp.com/)
